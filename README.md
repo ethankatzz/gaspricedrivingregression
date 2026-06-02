@@ -1,2 +1,2 @@
 # gaspricedrivingregression
-Regression testing on the behavior of Americans relative to the price of gasoline.
+Regression testing on American driving behavior relative to the price of gasoline.
